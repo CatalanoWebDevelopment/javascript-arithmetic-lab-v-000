@@ -39,10 +39,6 @@ var n
 n = Math.floor(Math.random() * 1000)
 
 function makeInt(n) {
-  if (n === 'n') {
-    parseInt(n, 10)
-    return n
-  } else {
-    parseInt(n, 10)
-  }
-}
+  parseInt(n, 10)
+  return n
+} 
