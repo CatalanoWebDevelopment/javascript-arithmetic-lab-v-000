@@ -42,7 +42,7 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-var n 
+var n
 
 function preserveDecimal(n) {
   parseFloat('n')
