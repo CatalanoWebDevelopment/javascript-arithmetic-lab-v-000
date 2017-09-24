@@ -24,6 +24,7 @@ var n
 n = Math.floor(Math.random() * 1000)
 
 function inc(n) {
+  n++
   return n++
 }
 
