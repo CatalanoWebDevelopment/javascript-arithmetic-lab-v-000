@@ -27,6 +27,10 @@ function inc(n) {
   return n += 1
 }
 
+var n
+
+n = Math.floor(Math.random() * 1000)
+
 function dec(n) {
   return n -= 1
 }
