@@ -21,6 +21,6 @@ function divide(a, b) {
 
 a = 1
 
-function inc(a) {
+function inc(n) {
   return a++
 }
