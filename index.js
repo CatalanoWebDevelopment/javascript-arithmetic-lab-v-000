@@ -19,6 +19,10 @@ function divide(a, b) {
   return a / b
 }
 
-function inc(a) {
-  return a++
+var n
+
+n = Math.floor(Math.random() * 1000)
+
+function inc(n) {
+  return n++
 }
