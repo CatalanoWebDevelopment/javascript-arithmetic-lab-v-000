@@ -26,3 +26,5 @@ n = Math.floor(Math.random() * 1000)
 function inc(n) {
   return n++
 }
+
+inc(n)
