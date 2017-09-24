@@ -18,9 +18,3 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
-
-n = 1
-
-function inc(n) {
-  return a + n 
-}
